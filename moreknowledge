@@ -1,0 +1,24 @@
+# 🧪 Cybersecurity Homelab
+
+This is my personal cybersecurity homelab designed for learning threat analysis, detection methodologies, and blue team operations.
+
+## 🔧 Tools Used
+- VirtualBox / VMware Workstation
+- Kali Linux
+- pfSense (Firewall)
+- Security Onion
+- Splunk Free
+- Windows 10 + Sysmon
+
+## 🔍 Projects
+- Threat hunting with Splunk
+- Simulated phishing with Gophish
+- Malware analysis with FLARE VM
+
+## 🛠️ Setup Guides
+- [Install Kali Linux](setup/install-kali.md)
+- [Configure pfSense](setup/pfsense-config.md)
+
+## 🗂️ Notes
+- [SIEM Log Review](notes/SIEM-analysis-notes.md)
+
